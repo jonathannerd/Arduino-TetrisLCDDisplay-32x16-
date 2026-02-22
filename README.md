@@ -1,0 +1,1 @@
+My Arduino LCD Tetris is a compact version of the classic block puzzle game built on an Arduino with an LCD screen. You control falling tetrominoes using buttons or a joystick, rotate and move them to complete full rows, and earn points as cleared lines disappear. The game gets faster over time and ends when the blocks stack to the top.
